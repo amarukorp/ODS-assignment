@@ -10,11 +10,11 @@
     <br>
     <h3 ><a href="page2.html">Lorem ipsum part 2</a></h3>
     <p>Enim eu turpis egestas pretium aenean pharetra. Duis ut diam quam nulla porttitor massa. Parturient montes nascetur ridiculus mus mauris vitae. At elementum eu facilisis sed odio morbi quis. Sollicitudin nibh sit amet commodo. Orci a scelerisque purus semper eget. Eget mauris pharetra et ultrices neque. Consectetur libero id faucibus nisl tincidunt eget nullam non. Consequat interdum varius sit amet. Diam quis enim lobortis scelerisque fermentum. Nunc mattis enim ut tellus elementum. Senectus et netus et malesuada fames ac turpis egestas maecenas. Eget nullam non nisi est sit. Semper quis lectus nulla at volutpat. Vel fringilla est ullamcorper eget nulla facilisi etiam. Convallis a cras semper auctor neque vitae tempus. Viverra tellus in hac habitasse platea. Egestas sed tempus urna et pharetra pharetra massa. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Tristique magna sit amet purus gravida quis.</p>
-    <img src="paper-623167_1280.jpg" alt="paper with lettering">  
+    <img src="paper.jpg" alt="paper with lettering">  
     <br>
     <h3 ><a href="page3.html">Lorem ipsum part 3</a></h3>
     <p>Et egestas quis ipsum suspendisse ultrices gravida. Suspendisse in est ante in nibh mauris cursus. Cras pulvinar mattis nunc sed blandit libero volutpat. Non odio euismod lacinia at quis. Aliquet enim tortor at auctor urna nunc. Diam ut venenatis tellus in metus vulputate eu scelerisque. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Sit amet est placerat in egestas erat. Ultrices gravida dictum fusce ut placerat orci. Vestibulum morbi blandit cursus risus. Aliquam id diam maecenas ultricies mi eget mauris.</p>
-    <img src="paper-623167_1280.jpg" alt="paper with lettering">  
+    <img src="paper.jpg" alt="paper with lettering">  
     <br>
   </body>
 </html>
