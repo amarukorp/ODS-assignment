@@ -1,0 +1,24 @@
+
+
+
+body{
+  background: beige;
+  text-align: center;
+}
+a{
+  color: brown;
+  font-size: 30px;
+}
+
+h1{
+  color: #b2660d;
+}
+p{
+  color: color dimgray;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+img{
+  width: 400px;
+}
