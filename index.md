@@ -14,7 +14,7 @@
             <br>
             <li><a href="page2.html"> L I part 2</a></li>
             <br>
-            <li><a href="page.html"> L I part 3</a></li>
+            <li><a href="page3.html"> L I part 3</a></li>
             </ul>
         </div>
         <div class="item3">Explanation of this web page
